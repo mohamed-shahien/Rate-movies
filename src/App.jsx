@@ -3,7 +3,7 @@ import Hearo from "./components/hearo";
 function App() {
   return (
     <main>
-<Hearo />
+      <Hearo />
     </main>
   );
 }
