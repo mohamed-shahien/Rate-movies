@@ -1,10 +1,10 @@
 import React from "react";
+import Hearo from "./components/hearo";
 function App() {
   return (
-    <>
-      <h1 class="text-3xl font-bold underline">Hello world!</h1>
-
-    </>
+    <main>
+<Hearo />
+    </main>
   );
 }
 
